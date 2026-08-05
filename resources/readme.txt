@@ -1,1 +1,1 @@
-These are shared resources.
+Release 2 Resources
